@@ -1,0 +1,2 @@
+# Pintos-project-1
+Pintos is a simple operating system framework for the 80x86 architecture. It supports kernel threads, loading and running user programs, and a file system, but it implements all of these in a very simple way. I strengthened the current implementation by adding the following functionalities.  !) Alarm clock functionality. 2) Prioritized thread scheduling 3) Advanced mlfqs (Multilevel feedback queue) scheduling. 4) Process synchronization. 5) Argument parsing. 6) System calls.
